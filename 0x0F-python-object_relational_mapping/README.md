@@ -1,1 +1,0 @@
-Object Relational mapper concepts
